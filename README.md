@@ -1,2 +1,2 @@
 # discrypro
-SOFT 4 FINDING EZ ETH ADDRESSES 
+Random generator eth address and their private keys. 
